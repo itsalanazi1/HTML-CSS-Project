@@ -1,0 +1,26 @@
+body {
+    background-color: #c57a7a;
+    font-family: 'Roboto', sans-serif;
+   }
+   .img{
+    float:left;
+
+   }
+   .text{
+    float:right;
+   }
+   .table1{
+       border-style: solid;
+       border-radius: 2px;
+       border-color: rgb(12, 11, 10);
+       width: 100%;
+   }
+   .table2{
+    border-style: solid;
+    border-radius: 2px;
+    border-color: rgb(12, 11, 10);
+    width: 100%;
+}
+li{
+    font-size: 15px;
+}
